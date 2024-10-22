@@ -1,6 +1,7 @@
 #Toni 22/10/2024
 Mi primer commit
 
+# Info que tiene que tener
 Qué hace el proyecto.
 Por qué el proyecto es útil.
 Cómo pueden comenzar los usuarios con el proyecto.
